@@ -1,4 +1,4 @@
 testrepository
 ==============
 
-これはテストです
+``$ python setup.py``
